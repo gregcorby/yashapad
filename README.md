@@ -1,2 +1,4 @@
 # yashapad
-Created with CodeSandbox
+
+Built on gatsbyjs with styled components
+Content pulled from datocms
